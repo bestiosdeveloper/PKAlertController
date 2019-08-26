@@ -1,7 +1,7 @@
 # PKAlertController
 A custom alert controller where you can change the colour and font for the options
 
-![preview](https://github.com/bestiosdeveloper/PKCategoryView/blob/master/PKCategoryViewDemo/static.gif)
+![preview](https://github.com/bestiosdeveloper/PKAlertController/blob/master/Demo.png)
 
 
 ## Usage
